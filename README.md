@@ -1,6 +1,15 @@
 # APIGatewayNodeJS
 
-A project to build API Gateway and implement it's benefit base on NodeJS.
+A project to build API Gateway and implement these features below base on NodeJS: - TODO <br>
++ Logging <br>
++ Proxy <br>
++ Authentication <br>
++ Rate Limiting <br>
++ Credit Check <br>
++ Cached - TODO <br>
++ Data aggregation - TODO <br>
++ Serialization format transformation - TODO <br>
++ Protocol transformation - TODO <br
 
 ## Ref
 ```bash
@@ -8,6 +17,11 @@ A project to build API Gateway and implement it's benefit base on NodeJS.
 ```
 
 ## Run Project
-  npm init -y <br>
-  npm i<br>
-  npm start<br>
++ npm init -y <br>
++ npm i<br>
++ npm start<br>
+
+## Link
++ http://localhost:3000/free
++ http://localhost:3000/premium
++ http://localhost:3000/creditcheck
