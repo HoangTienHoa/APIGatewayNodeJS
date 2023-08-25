@@ -6,7 +6,7 @@ const setupAuth = (app, routes) => {
     var keycloak = new Keycloak({ store: memoryStore });
 
     app.use(session({
-        secret:'sdfslk;lwr;w;234.,knadBf;lasdk;lqwo#',
+        secret:'Dfwe23sada#asdgjuyioKqY$DnajD#*dwq3it',
         resave: false,
         saveUninitialized: true,
         store: memoryStore
